@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshenmakwana&label=Profile%20views&color=0e75b6&style=flat" alt="dikshenmakwana" /> </p>
 
-- 🌱 I’m currently learning **Advance Java, NodeJs**
+- 🌱 I’m currently learning **Advance Java, NodeJs and PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DikshenMakwana](https://github.com/DikshenMakwana)
 
